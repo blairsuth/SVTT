@@ -5,7 +5,7 @@
     <description>Business Directory for Sun Valley Idaho</description>
     <author email="blairsuth@gmail.com" href="http://www.blairsutherland.com">Webmaster</author>
     
-    <content src="http://www.sunvalleytowntalk.com/mobile-app" />
+    <content src="http://www.blairsutherland.com" />
     
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
