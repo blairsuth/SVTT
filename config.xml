@@ -4,6 +4,7 @@
     <name>Sun Valley Town Talk</name>
     <description>Business Directory for Sun Valley Idaho</description>
     <author email="blairsuth@gmail.com" href="http://www.blairsutherland.com">Webmaster</author>
+    
 
     
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -37,7 +38,7 @@
 
 	<icon src="icon.png" />
 	
-	<platform name="ios">
+  <platform name="ios">
     <icon src="icon.png" platform="ios" width="57" height="57"/>
     <icon src="res/icon/ios/icon.png" platform="ios" width="57" height="57"/>
     <icon src="res/icon/ios/icon@2x.png" platform="ios" width="114" height="114"/>
