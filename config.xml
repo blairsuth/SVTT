@@ -5,9 +5,8 @@
     <description>Business Directory for Sun Valley Idaho</description>
     <author email="blairsuth@gmail.com" href="http://www.blairsutherland.com">Webmaster</author>
     
-
+    <content src="http://www.sunvalleytowntalk.com/mobile-app" />
     
-    <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
@@ -129,6 +128,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://www.sunvalleytowntalk.com/mobile-app" />
+    
     <access origin="*" subdomains="true" />
 </widget>
